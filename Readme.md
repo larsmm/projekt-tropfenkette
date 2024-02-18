@@ -143,7 +143,7 @@ Choose your level of complexity:
 
 **Something needs to be replaced or got lost:** It would be nice to keep this project alive by the awesome hacking community. So donations of replacement parts would be very welcome. If you, your fellow hackers or your hackspace cannot afford it, please contact the [Matrix group](https://matrix.to/#/#projekt-tropfenkette:matrix.warpzone.ms).
 
-## Two typed of LEDs are sold :-(
+## Two types of LEDs are sold :-(
 
 These strips are sold with 2 kinds of LEDs on aliexpress which look the same on photos but with huge quality differences. Here a comparison:
 
