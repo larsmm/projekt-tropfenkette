@@ -2,6 +2,14 @@
 
 A project featuring a box filled with 240 meters of ready-to-use LED strips to make events more colorful. These boxes are stored in hackspaces or at the homes of beings. Coordination of which boxes are used at which events is done through a [Matrix group](https://matrix.to/#/#projekt-tropfenkette:matrix.warpzone.ms).
 
+
+<table><tr>
+<td><a href="https://www.youtube.com/watch?v=VafaI8VTRTc" target=new><img src="https://img.youtube.com/vi/VafaI8VTRTc/0.jpg" alt="My talk about this project at KampHack 2024 in warpzone hackerspace in Münster"></a><br>
+    <em>My talk about this project at <a href="https://kamphack.de/" target=new>KampHack 2024</a> in <a href="https://www.warpzone.ms/" target=new>warpzone</a> hackerspace in Münster (in german)</em></td>
+</tr></table>
+
+<br />
+
 <table><tr>
 <td> <a href="images/at_home.jpg"><img src="images/at_home.jpg" style="width: 380px;"/></a> </td>
 <td> <a href="images/37c3.jpg"><img src="images/37c3.jpg" style="width: 380px;"/></a> </td>
@@ -204,7 +212,7 @@ If something is not right, it is now very straightforward to return it on AliExp
 
 ## The funding
 
-The project, consisting of 10 boxes, is hoped to be financed by the CCC. For more details, refer to the [Projektantrag](Projektantrag.md).
+The project, consisting of 5 boxes, is hoped to be financed by the CCC. For more details, refer to the [Projektantrag](Projektantrag.md).
 
 ## Vision
 
@@ -216,7 +224,7 @@ Vision: Custom WLED PCB with ESP32, microphone, and PoE. It can be used standalo
 
 ### Microphone-Box
 
-Vision: A small 3d-printed box with an [ESP32 board and a microphone](https://github.com/NandXor96/USBWLEDC) inside without LEDs. It can be used to control the audioreactive effects oh the Tropfenketten.
+Vision: A small 3d-printed box with an [ESP32 board and a microphone](https://github.com/NandXor96/USBWLEDC) inside without LEDs. It can be used to control the audioreactive effects of the Tropfenketten. The network latency is quite high in WLED 0.15. We should wait for improvements.
 
 ### Other types of LEDs
 

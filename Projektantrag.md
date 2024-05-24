@@ -18,11 +18,11 @@ Die Umsetzung bedeutet eine Menge Arbeit. Das Material muss bestellt, Spulen ged
 
 ### Bestellung
 
-Das Meiste muss bei Aliexpress bestellt werden, ein Teil aus Deutschland. Vorschlag: Der CCC überweist mir einen Vorschuss von z. B. 4000€, ich tätige die Bestellungen. Wahrscheinlich lässt sich bei Aliexpress durch die Nutzung von Gutscheinen und Rabattaktionen einigs sparen. Das bedeutet allerdings, dass nicht alles auf einmal bestellt werden kann. Es wäre also ggf. sinnvoll, die Bestellungen über einige Wochen bis Monate zu strecken. Ggf. lässt sich auch ein Gesamtrabatt mit dem Händler aushandeln.
+Das Meiste muss bei Aliexpress bestellt werden, ein Teil aus Deutschland. Vorschlag: Der CCC überweist mir einen Vorschuss von z. B. 2000€, ich tätige die Bestellungen. Wahrscheinlich lässt sich bei Aliexpress durch die Nutzung von Gutscheinen und Rabattaktionen einigs sparen. Das bedeutet allerdings, dass nicht alles auf einmal bestellt werden kann. Es wäre also ggf. sinnvoll, die Bestellungen über einige Wochen bis Monate zu strecken. Ggf. lässt sich auch ein Gesamtrabatt mit dem Händler aushandeln.
 
 ### Fertigung der Spulen und Akkuschrauber-Adapter
 
-Mit ~300h Druckzeit (für 10 Kisten) bereitet der Druck der Spulen viel Aufwand. Hier hoffe ich auf Hilfe von Hackspaces und die Nutzung zahlreicher Drucker. Das Modell ist recht einfach zu drucken und sollte auf den meisten Druckern gut funktionieren. Mir steht ein Bambulanbs X1 Carbon Drucker zur Verfügung und ich könnte einen Teil der Spulen drucken.
+Mit ~150h Druckzeit (für 5 Kisten) bereitet der Druck der Spulen viel Aufwand. Hier hoffe ich auf Hilfe von Hackspaces und die Nutzung zahlreicher Drucker. Das Modell ist recht einfach zu drucken und sollte auf den meisten Druckern gut funktionieren. Mir steht ein Bambulanbs X1 Carbon Drucker zur Verfügung und ich könnte einen Teil der Spulen drucken.
 
 ### Löten und flashen der Controller
 
@@ -30,6 +30,6 @@ Das wird sich vorraussichtlich an ein paar Abenden mit ein Paar Leuten in der wa
 
 ### Zeitplan
 
-Ich bin dabei mehr und mehr Wesen für das Projekt zu begeistern. Auf dem [Kamphack 2024](https://kamphack.de) wird es einen Vortrag geben, auf der Esterhegg 2024 evtl. einen Lightning Talk.
+Ich bin dabei mehr und mehr Wesen für das Projekt zu begeistern. Auf dem [KampHack 2024](https://kamphack.de) habe ich einen Talk dazu gehalten.
 
-Ich denke, dass 2024 einige Boxen fertig werden könnten. Die Easterhegg-Orga hat großes Interesse angemeldet. Wie schnell sich das Projekt umsetzen lässt, hängt sehr davon ab, wieviel Hilfe ich erhalte.
+Ich denke, dass 2024 einige Boxen fertig werden könnten. Ich werde mittlerweile regelmäßig von Event-Orgas kontaktiert mit der Bitte um Verleih der Tropfenketten. Wie schnell sich das Projekt umsetzen lässt, hängt sehr davon ab, wieviel Hilfe ich erhalte.
