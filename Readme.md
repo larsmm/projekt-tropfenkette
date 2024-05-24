@@ -1,6 +1,6 @@
 # Welcome to Projekt Tropfenkette! ✨
 
-A project featuring a box filled with 240 meters of ready-to-use LED strips to make events more colorful. These boxes are stored in hackspaces or at the homes of beings. Coordination of which boxes are used at which events is done through a [Matrix group](https://matrix.to/#/#projekt-tropfenkette:matrix.warpzone.ms).
+A project featuring a box filled with 240 meters of ready-to-use LED strips to make events more colorful. These boxes are stored in hackerspaces or at the homes of beings. Coordination of which boxes are used at which events is done through a [Matrix group](https://matrix.to/#/#projekt-tropfenkette:matrix.warpzone.ms).
 
 
 <table><tr>
@@ -73,11 +73,11 @@ The strips are somewhat water-resistant. Exposure to rain or damp grass poses no
 
 ### Hardcoded Addresses
 
-Unlike on most other strips these LEDs are all connected in parallel, so each LED gets the same signal. That means, every LED has a hardcoded address. The low idle-current is a benefit of this. However, this means strips cannot be serially chained without duplicating control signals. For instance, if you connect two 200 LED strips in series, you still have the address range 1-200 instead of 1-400. If you activate one LED, the corresponding LEDs on both strips will light up. This requires careful planning for specific lighting designs. In this project enery strip gets its own microcontroller pin.
+Unlike on most other strips, these LEDs are all connected in parallel, so each LED gets the same signal. That means, every LED has a hardcoded address. The low idle-current is a benefit of this. However, this means strips cannot be serially chained without duplicating control signals. For instance, if you connect two 200 LED strips in series, you still have the address range 1-200 instead of 1-400. If you activate one LED, the corresponding LEDs on both strips will light up. This requires careful planning for specific lighting designs. In this project, enery strip gets its own microcontroller pin.
 
 ## The Spool
 
-The spool for winding the strip is 3D printed ([STL 1](stl/spool-1.stl), [STL 2](stl/spool-2.stl)) in two halves and then glued together. Currently, a simple wooden piece with an M5 screw serves as a makeshift power drill adapter. A 3D printed version have to be designed.
+The spool for winding the strip is 3D printed ([STL 1](stl/spool-1.stl), [STL 2](stl/spool-2.stl)) in two halves and then glued together. Currently, a simple wooden piece with an M5 screw serves as a makeshift power drill adapter. A 3D printed version has to be designed.
 
 <table><tr>
 <td> <a href="images/spule_druck_1.png"><img src="images/spule_druck_1.png" style="width: 380px;"/></a> </td>
@@ -108,9 +108,9 @@ Ready to use [ESP32-C3-board](https://www.aliexpress.com/item/1005005967641936.h
 
 How to solder:
 
-- Open the case and unsolder the bluetooth controller.
+- Open the case and unsolder the Bluetooth controller.
 - Touch the wire ends of the LEDs with your soldering iron to make them pointy.
-- Clamp the board somewhere, but be careful not to destroy the very small smd parts.
+- Clamp the board somewhere, but be careful not to destroy the very small SMD parts.
 - Put the 3 wires coming from the LEDs through the holes in the board and solder them with a bit of solder wire.
 - Then solder the 2 USB-wires to the back of the board. Make sure to heat them up enough to get a good connection and short enough to not unsolder the LED-wires. The soldering points should be quite flat to fit into the case.
 
@@ -128,14 +128,14 @@ Flash:
 
 Configuration:
 
-- After flashing, connect to the `WLED-AP` Wifi. The landing page should open automatically. If not, enter <http://4.3.2.1> in browser.
+- After flashing, connect to the `WLED-AP` Wifi. The landing page should open automatically. If not, enter <http://4.3.2.1> in your browser.
 - TO THE CONTROLS! > Config > Security & Updates >
   - Restore presets: [choose file](cfg/wled_presets.json) > Upload
   - Restore configuration: [choose file](cfg/wled_cfg.json) > Upload
 - The ESP will restart now. Now connect to Wifi again:
 - WIFI SETTINGS > AP SSID: `WLED-[your name]-tk[number]`. For example `WLED-larsm-tk1`. Also write this name onto the controller-case.
 - If you want to put the strips into an existing Wifi you can do so in Wifi Settings.
-- The current limit in `LED Preferences` is not set because the wire resistance is limiting the current enough. Also different limits were needed whether powering from one or both ends. It may result in strange looking effects by missing colors at the not powered end of the strip. Lower the brightness of the effect until it is ok.
+- The current limit in `LED Preferences` is not set because the wire resistance is limiting the current enough. Also, different limits were needed whether powering from one or both ends. It may result in strange looking effects by missing colors at the not powered end of the strip. Lower the brightness of the effect until it is ok.
 
 ### Default effect
 
@@ -167,11 +167,11 @@ Choose your level of complexity:
 
 ## Help!!11!
 
-**LED-strip broken:** please solder and insulate broken wires, ask for help in your lokal hackspace and drink a mate.
+**LED-strip broken:** please solder and insulate broken wires, ask for help in your local hackerspace and drink a mate.
 
 **Controller broken:** Things you can try: connect to wifi, connect no or another ledstrip, reflash the controller. Use a multimeter and check voltages and currents.
 
-**Something needs to be replaced or got lost:** It would be nice to keep this project alive by the awesome hacking community. So donations of replacement parts would be very welcome. If you, your fellow hackers or your hackspace cannot afford it, please contact the [Matrix group](https://matrix.to/#/#projekt-tropfenkette:matrix.warpzone.ms).
+**Something needs to be replaced or got lost:** It would be nice to keep this project alive by the awesome hacking community. So donations of replacement parts would be very welcome. If you, your fellow hackers or your hackerspace cannot afford it, please contact the [Matrix group](https://matrix.to/#/#projekt-tropfenkette:matrix.warpzone.ms).
 
 ## Two types of LEDs are sold :-(
 
@@ -196,7 +196,7 @@ These strips are sold with 2 kinds of LEDs on aliexpress which look the same on 
 
 So how to buy the good ones? There are a couple of dealers on aliexpress selling them. A good approach is to maintain a list of dealers and their offers, along with records of successful and unsuccessful purchases:
 
-| good or bed | known good order | known bad order | Dealer                  | link                                                          | comment                                                         |
+| good or bad | known good order | known bad order | Dealer                  | link                                                          | comment                                                         |
 |-------------|------------------|-----------------|-------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
 | ✅           | 2024-03-15       | -               | Mi Light Store          | [link](https://www.aliexpress.com/item/1005003243510750.html) | as seen on 37c3 and eh21 :-)                                    |
 | ✅           | ~2023-11-20      | -               | Aurboos LED Strip Store | [link](https://de.aliexpress.com/item/1005004753971048.html)  | Type: "Copper Wire"                                             |
@@ -216,7 +216,7 @@ The project, consisting of 5 boxes, is hoped to be financed by the CCC. For more
 
 ## Vision
 
-I would really love to see a lot of these LEDs many feature events! It would be great to see nearly all of them illuminating next congress! :D
+I would really love to see a lot of these LEDs on many future events! It would be great to see nearly all of them illuminating on next congress! :D
 
 ### The Advanced Controller with Custom Board
 
@@ -224,7 +224,7 @@ Vision: Custom WLED PCB with ESP32, microphone, and PoE. It can be used standalo
 
 ### Microphone-Box
 
-Vision: A small 3d-printed box with an [ESP32 board and a microphone](https://github.com/NandXor96/USBWLEDC) inside without LEDs. It can be used to control the audioreactive effects of the Tropfenketten. The network latency is quite high in WLED 0.15. We should wait for improvements.
+Vision: A small 3d-printed box with an [ESP32 board and a microphone](https://github.com/NandXor96/USBWLEDC) inside without LEDs. It can be used to control the audioreactive effects on the Tropfenketten. The network latency is quite high in WLED 0.15. We should wait for improvements.
 
 ### Other types of LEDs
 
