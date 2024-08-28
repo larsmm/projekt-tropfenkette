@@ -198,8 +198,8 @@ So how to buy the good ones? There are a couple of dealers on aliexpress selling
 
 | good or bad | known good order | known bad order | Dealer                  | link                                                          | comment                                                         |
 |-------------|------------------|-----------------|-------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
-| ✅           | ~2023-11-20      | -               | Aurboos LED Strip Store | [link](https://de.aliexpress.com/item/1005004753971048.html)  | Type: "Copper Wire"                                             |
-| ❌           | 2024-03-15       | 2024-06-03      | Mi Light Store          | [link](https://www.aliexpress.com/item/1005003243510750.html) | It was a good source for a long time, but not anymore :'(       |
+| ✅?          | ~2023-11-20      | -               | Aurboos LED Strip Store | [link](https://de.aliexpress.com/item/1005004753971048.html)  | Type: "Copper Wire"! The last known good order was quite a while ago. It's unclear if the good strip is still being delivered. Additionally, it has been out of stock for weeks. |
+| ❌/✅?       | 2024-03-15       | 2024-06-03      | Mi Light Store          | [link](https://www.aliexpress.com/item/1005003243510750.html) | It was a good source for a long time, but not anymore. :'( I contacted the dealer. He said he could deliver the good strips. I'm trying to find out exactly how. |
 | ❌           | -                | 2023-10-13      | LOAMLIN Official Store  | [link](https://www.aliexpress.com/item/1005001917228863.html) | Seller wrote 2023-11-14: the good ones are no longer available. |
 
 Another thing: when ordering a 20m strip, you always get 2 10m pieces that are soldered together in the middle. In one delivery of the otherwise good strips, they were incorrectly addressed, namely 1-100 + 1-100 instead of 1-200. However, this only happened with one of many orders. Please test this upon arrival.
