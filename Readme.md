@@ -10,16 +10,27 @@ A project featuring a box filled with 240 meters of ready-to-use LED strips to m
 
 <br />
 
-<table><tr>
-<td> <a href="images/at_home.jpg"><img src="images/at_home.jpg" style="width: 380px;"/></a> </td>
-<td> <a href="images/37c3.jpg"><img src="images/37c3.jpg" style="width: 380px;"/></a> </td>
+<table>
 
-<td> <a href="images/last_summer_1.jpg"><img src="images/last_summer_1.jpg" style="width: 380px;"/></a> </td>
+<tr>
+<td> <a href="images/gpn2024_1.jpg"><img src="images/gpn2024_1.jpg" style="width: 380px;"/></a> </td>
+<td> <a href="images/gpn2024_2.jpg"><img src="images/gpn2024_2.jpg" style="width: 380px;"/></a> </td>
+<td> <a href="images/37c3.jpg"><img src="images/37c3.jpg" style="width: 380px;"/></a> </td>
 </tr>
-<tr><td> <a href="images/last_summer_2.jpg"><img src="images/last_summer_2.jpg" style="width: 380px;"/></a> </td>
+
+<tr>
+<td> <a href="images/at_home.jpg"><img src="images/at_home.jpg" style="width: 380px;"/></a> </td>
+<td> <a href="images/last_summer_1.jpg"><img src="images/last_summer_1.jpg" style="width: 380px;"/></a> </td>
+<td> <a href="images/last_summer_2.jpg"><img src="images/last_summer_2.jpg" style="width: 380px;"/></a> </td>
+</tr>
+
+<tr>
 <td> <a href="images/ccc2023.jpg"><img src="images/ccc2023.jpg" style="width: 380px;"/></a> </td>
 <td> <a href="images/entropia.jpg"><img src="images/entropia.jpg" style="width: 380px;"/></a> </td>
-</tr></table>
+<td>  </td>
+</tr>
+
+</table>
 
 ## Features
 
@@ -199,12 +210,14 @@ So how to buy the good ones? There are a couple of dealers on aliexpress selling
 | good or bad | known good order | known bad order | Dealer                  | link                                                          | comment                                                         |
 |-------------|------------------|-----------------|-------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
 | ✅?          | ~2023-11-20      | -               | Aurboos LED Strip Store | [link](https://de.aliexpress.com/item/1005004753971048.html)  | Type: "Copper Wire"! The last known good order was quite a while ago. It's unclear if the good strip is still being delivered. Additionally, it has been out of stock for weeks. |
-| ❌/✅?       | 2024-03-15       | 2024-06-03      | Mi Light Store          | [link](https://www.aliexpress.com/item/1005003243510750.html) | It was a good source for a long time, but not anymore. :'( I contacted the dealer. He said he could deliver the good strips. I'm trying to find out exactly how. |
+| ❌           | 2024-03-15       | 2024-06-03      | Mi Light Store          | [link](https://www.aliexpress.com/item/1005003243510750.html) | It was a good source for a long time, but not anymore. I contacted the dealer. He said he could deliver the good strips, send me a test strip which was the bad one. :'( |
 | ❌           | -                | 2023-10-13      | LOAMLIN Official Store  | [link](https://www.aliexpress.com/item/1005001917228863.html) | Seller wrote 2023-11-14: the good ones are no longer available. |
 
-Another thing: when ordering a 20m strip, you always get 2 10m pieces that are soldered together in the middle. In one delivery of the otherwise good strips, they were incorrectly addressed, namely 1-100 + 1-100 instead of 1-200. However, this only happened with one of many orders. Please test this upon arrival.
+As long as the strips are unavailible in Aurboos LED Strip Store the only source is Mi Light Store which is selling the bad strips. Don't get me wrong, but they are still good LED strips. I'm just very demanding.
 
-If something is not right, it is now very straightforward to return it on AliExpress. Simply click in the order overview, receive a shipping label, send it to a German address, and receive the refund within about 1 week.
+Another thing: when ordering a 20m strip, you always get 2 10m pieces that are soldered together in the middle. In one delivery of the otherwise good strips, they were incorrectly addressed, namely 1-100 + 1-100 or 1-100 + 100-1 instead of 1-99 + 100-200. However, this only happened with one of many orders. Please test this upon arrival.
+
+If something is not right, it is now very straightforward to return it on AliExpress. Simply click in the order overview, receive a shipping label, send it to a German address, and receive the refund within about a week.
 
 ## Bill of Materials - BOM
 
