@@ -13,6 +13,12 @@ A project featuring a box filled with 240 meters of ready-to-use LED strips to m
 <table>
 
 <tr>
+<td> <a href="images/38c3.jpg"><center><img src="images/38c3.jpg" style="width: 200px;"/></center></a> </td>
+<td> <a href="images/hoa2024_1.jpg"><img src="images/hoa2024_1.jpg" style="width: 380px;"/></a> </td>
+<td> <a href="images/hoa2024_2.jpg"><img src="images/hoa2024_2.jpg" style="width: 380px;"/></a> </td>
+</tr>
+
+<tr>
 <td> <a href="images/gpn2024_1.jpg"><img src="images/gpn2024_1.jpg" style="width: 380px;"/></a> </td>
 <td> <a href="images/gpn2024_2.jpg"><img src="images/gpn2024_2.jpg" style="width: 380px;"/></a> </td>
 <td> <a href="images/37c3.jpg"><img src="images/37c3.jpg" style="width: 380px;"/></a> </td>
@@ -27,6 +33,12 @@ A project featuring a box filled with 240 meters of ready-to-use LED strips to m
 <tr>
 <td> <a href="images/ccc2023.jpg"><img src="images/ccc2023.jpg" style="width: 380px;"/></a> </td>
 <td> <a href="images/entropia.jpg"><img src="images/entropia.jpg" style="width: 380px;"/></a> </td>
+<td> <a href="images/bornhack2024.jpg"><img src="images/bornhack2024.jpg" style="width: 380px;"/></a> </td>
+</tr>
+
+<tr>
+<td> <a href="images/wohnzimmer.jpg"><center><img src="images/wohnzimmer.jpg" style="width: 200px;"/></center></a> </td>
+<td>  </td>
 <td>  </td>
 </tr>
 
